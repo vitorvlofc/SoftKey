@@ -1,0 +1,26 @@
+{
+  "3dias": {
+    "XK7C2-3DAYZ": {
+      "tipo": "3dias",
+      "usuario": "Usuário 3 Dias"
+    }
+  },
+  "1mes": {
+    "AB12C-1MESZ": {
+      "tipo": "1mes",
+      "usuario": "Usuário 1 Mês"
+    }
+  },
+  "1ano": {
+    "ZXCVB-1ANOZ": {
+      "tipo": "1ano",
+      "usuario": "Usuário 1 Ano"
+    }
+  },
+  "vitalicia": {
+    "QWERT-VITAL": {
+      "tipo": "vitalicia",
+      "usuario": "Usuário Vitalício"
+    }
+  }
+}
