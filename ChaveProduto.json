@@ -18,9 +18,13 @@
     }
   },
   "vitalicia": {
-    "QWERT-VITAL": {
+    "QWERT-VITAL1": {
       "tipo": "vitalicia",
-      "usuario": "Usuário Vitalício"
+      "usuario": "Vitor Lima Santos - Adm"
+    },
+    "QWERT-EDSOC2": {
+      "tipo": "vitalicia",
+      "usuario": "Edson Calado"
     }
   }
 }
