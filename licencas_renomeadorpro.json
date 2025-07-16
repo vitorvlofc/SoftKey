@@ -1,13 +1,13 @@
 {
   "CHAVE-10DIAS-001": {
-    "pagamento": false,
-    "usado": true,
+    "pagamento": true,
+    "usado": false,
     "nome": "Vitor - Admin",
     "validade": "10d",
     "data_ativacao": null
   },
   "CHAVE-1MES-002": {
-    "pagamento": false,
+    "pagamento": true,
     "usado": false,
     "nome": "Vitor - Admin",
     "validade": "1m",
