@@ -7,8 +7,8 @@
     "data_ativacao": null
   },
   "CHAVE-1MES-002": {
-    "pagamento": false,
-    "usado": false,
+    "pagamento": true,
+    "usado": true,
     "nome": "Vitor - Admin",
     "validade": "1m",
     "data_ativacao": null
