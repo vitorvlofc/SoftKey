@@ -14,7 +14,7 @@
     "data_ativacao": null
   },
   "CHAVE-6MESES-003": {
-    "pagamento": true,
+    "pagamento": false,
     "usado": false,
     "nome": "Vitor - Admin",
     "validade": "6m",
