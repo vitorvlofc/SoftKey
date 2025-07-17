@@ -1,9 +1,9 @@
 {
-  "CHAVE-2MIN-001": {
+  "CHAVE-3MIN-001": {
     "pagamento": true,
     "usado": false,
     "nome": "Vitor - Admin",
-    "validade": "2 minutos",
+    "validade": "3 minutos",
     "data_ativacao": null
   },
   "CHAVE-1HORA-002": {
