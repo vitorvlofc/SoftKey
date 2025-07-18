@@ -28,7 +28,7 @@
     "data_ativacao": null
   },
   "CHAVE-1ANO-005": {
-    "pagamento": true,
+    "pagamento": false,
     "usado": true,
     "nome": "Vitor - Admin",
     "validade": "1 ano",
